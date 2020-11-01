@@ -172,6 +172,12 @@ header .btn-get-started:hover {
   min-height: 380px;
 }
 
+.section-testimonials-content .card-testimonial .testimonial-content img {
+  background-size: cover;
+  height: 120px;
+  width: 120px;
+}
+
 .section-testimonials-content .card-testimonial h3 {
   font-size: 22px;
 }
@@ -210,5 +216,13 @@ header .btn-get-started:hover {
 
 .section-testimonials-content .btn-need-help:hover {
   color: #C3C3C3;
+}
+
+.section-footer a {
+  color: #071C4D;
+}
+
+.section-footer h5 {
+  font-weight: 600;
 }
 /*# sourceMappingURL=main.css.map */

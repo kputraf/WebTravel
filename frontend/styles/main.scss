@@ -186,6 +186,13 @@ header {
 
     .testimonial-content {
       min-height: 380px;
+     
+      img{
+        background-size: cover;
+        height: 120px;
+        width: 120px;
+       
+      }
     }
 
     h3 {
@@ -227,5 +234,14 @@ header {
     &:hover {
       color: #C3C3C3;
     }
+  }
+}
+
+.section-footer{
+  a{
+    color:#071C4D;
+  }
+  h5{
+    font-weight: 600;
   }
 }
